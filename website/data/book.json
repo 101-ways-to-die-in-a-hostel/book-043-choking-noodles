@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A competitive mukbang influencer chokes to death during an ill-advised street food eating contest at a Japanese hostel, proving that content truly is king even when it kills you.",
     "long": ""
   },
   "death_type": "Choking Noodles",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "He lived for the views. He died for the content."
 }
